@@ -1,0 +1,38 @@
+.container{
+    border: 1px solid;
+    /* position: relative; */
+}
+
+.box{
+    height: 200px;
+    width: 200px;
+    border: 1px solid;
+}
+
+.box-1{
+    background-color: red;
+   position: sticky;
+   top: -20px;
+}
+
+.box-2{
+    background-color: green;
+    /* position: fixed;
+    right: 20px;
+    top: 0; */
+}
+
+.box-3{
+    background-color: yellow;
+    /* position: fixed; */
+    top: 20;
+}
+
+.box-4{
+    background-color: grey;
+}
+.outter{
+    background-color: pink;
+    /* position: sticky;
+    top: 0; */
+}
